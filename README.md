@@ -9,9 +9,9 @@
 
 # react-node
 
-*** This project has the node api controller for coin details
+*** This project has the node api controller to connect with ui using route
 
 # mongo
 
-*** Connected with cloud Mongo Db(coin details) ***
+*** Connected with cloud Mongo Db ***
 
